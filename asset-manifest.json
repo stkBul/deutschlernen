@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deutschlernen/static/css/main.073c9b0a.css",
+    "main.js": "/deutschlernen/static/js/main.ddba3728.js",
+    "static/js/787.bc322285.chunk.js": "/deutschlernen/static/js/787.bc322285.chunk.js",
+    "static/media/logo.svg": "/deutschlernen/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/deutschlernen/index.html",
+    "main.073c9b0a.css.map": "/deutschlernen/static/css/main.073c9b0a.css.map",
+    "main.ddba3728.js.map": "/deutschlernen/static/js/main.ddba3728.js.map",
+    "787.bc322285.chunk.js.map": "/deutschlernen/static/js/787.bc322285.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ddba3728.js"
+  ]
+}
